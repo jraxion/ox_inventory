@@ -1,4 +1,11 @@
-# ox_inventory
+What is this fork for?
+
+- This is an attempt to make sure ox_inventory keeps working for QBCore.
+- Open issue if you have any issues with this.
+- Do not ask how to install this as it is drag and drop if you know what you are doing.
+- Be respectful for someone providing this support for free (Including original developers for ox_inventory)
+
+# ox_inventory with QBCore Support
 
 A complete inventory system for FiveM, implementing items, weapons, shops, and more without any strict framework dependency.
 
